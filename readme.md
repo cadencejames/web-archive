@@ -67,7 +67,7 @@ web-archive/
 
 ## Contributing
 
-Contributions are welcome! If you have ideas or fixes, feel free to:
+Contributions are  welcome! If you have ideas or fixes, feel free to:
 1. Fork this repository.
 2. Create a feature branch:
    ```bash
