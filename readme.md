@@ -31,6 +31,12 @@ This tool allows users to save a copy of web content, including HTML pages and a
    ```bash
    cd web-archive
    ```
+   
+3. Install the required dependencies (if any are listed in `requirements.txt`):
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 
 ---
 
