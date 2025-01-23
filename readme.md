@@ -1,4 +1,10 @@
 # Web Archive
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+![Netmiko](https://img.shields.io/badge/library-netmiko-blue)
+![License](https://img.shields.io/github/license/cadencejames/web-archive)
+![Last Commit](https://img.shields.io/github/last-commit/cadencejames/web-archive)
+![Contributors](https://img.shields.io/github/contributors/cadencejames/web-archive)
+[![Network Tool](https://img.shields.io/badge/network-tool-green)](https://github.com/cadencejames/web-archive)
 
 A **simple and crude archiver** for webpages and images.
 
